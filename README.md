@@ -10,8 +10,8 @@ Criteria Users can Choose:
 - Include Upper Case Characters
 
 User Story:
-GIVEN I need a new password that is secure
-WHEN I click the "Generate Password" button
-THEN I am presented with the criteria I can choose to include in the generated password
-WHEN I choose all of the criteria I want in my new password
-THEN the website generates my new password with my chosen criteria
+- GIVEN I need a new password that is secure
+- WHEN I click the "Generate Password" button
+- THEN I am presented with the criteria I can choose to include in the generated password
+- WHEN I choose all of the criteria I want in my new password
+- THEN the website generates my new password with my chosen criteria
